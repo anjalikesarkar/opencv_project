@@ -20,3 +20,16 @@ OpenCV (Open Source Computer Vision Library) - Image processing library
 - GrabCut (grabcut nb): Implements the GrabCut algorithm to segment and cut objects from an image using a background and foreground mask.
 - Image Morphism (image morphism nb): Covers various image morphing techniques like dilation, erosion, and opening/closing.
 - Thresholding (thresholding nb): Demonstrates simple thresholding and Otsu's method for image binarization.
+
+# Face Detection Folder Notebooks:
+- Face Detection (opencv face detection nb): Detects faces in both static images and live webcam feed using Haar Cascade classifiers.
+
+# Images Folder Description:
+Images: Contains all the sample images used for the notebooks in the "Basic Image Processing" and "Advanced Image Processing" folders.
+
+# Sample Videos Folder Description:
+- Sample Videos: Contains all the sample videos used for video processing in the notebooks. 
+- It also serves as the folder where extracted images from videos are saved.
+
+#
+
