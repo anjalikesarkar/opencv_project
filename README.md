@@ -21,6 +21,15 @@ OpenCV (Open Source Computer Vision Library) - Image processing library
 - Image Morphism (image morphism nb): Covers various image morphing techniques like dilation, erosion, and opening/closing.
 - Thresholding (thresholding nb): Demonstrates simple thresholding and Otsu's method for image binarization.
 
+# Video Processing Folder Description:
+- Video Processing: This folder contains notebooks focused on video processing techniques using OpenCV, including object detection, background removal, video reading, and more.
+Notebooks in this folder:
+- Object Detection (object detection nb): Detects objects in videos using techniques like HSV color space, Region of Interest (ROI), and Termination Criteria.
+- Video Reading (video reading nb): Reads and processes basic video files in OpenCV.
+- Background Removal (bg remover nb): Uses methods like GrabCut and Background Subtraction to remove the background from videos.
+- Reverse Video (reverse video nb): Reverses a given video for playback in reverse order.
+- Webcam Video (webcam_video nb): Captures video from a webcam, processes it, and saves the output video to a specified location on the local machine.
+
 # Face Detection Folder Notebooks:
 - Face Detection (opencv face detection nb): Detects faces in both static images and live webcam feed using Haar Cascade classifiers.
 
